@@ -1,1 +1,1 @@
-redis:7.0
+cooderl/wewe-rss-sqlite:latest
