@@ -1,2 +1,3 @@
 cooderl/wewe-rss-sqlite:latest
 redis:7.2.12
+mysql:8.0.36
